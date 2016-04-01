@@ -1,4 +1,4 @@
 # Second post
 
-Yo!
+Yo! This is a post from GitHub.
 
